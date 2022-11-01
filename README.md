@@ -1,7 +1,7 @@
 # sentimental-server
  Submission for the 2022 Congressional App Challenge.
  
- Looking for the clientside code? Click [here](github.com/nerdie01/sentimental-client).
+ Looking for the clientside code? Click [here](https://github.com/nerdie01/sentimental-client).
 
 # Build Instructions
 Clone repository
