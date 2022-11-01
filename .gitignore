@@ -1,8 +1,10 @@
 #ML Model Weights
-ec_weights/
+stec/ec_weights/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
+stec/__pycache__/
+transcr/__pycache__/
 *.py[cod]
 *$py.class
 
